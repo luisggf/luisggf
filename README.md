@@ -1,30 +1,68 @@
-# Luis Guilherme
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Jacqueline+Atae;I'm+Software+Engineering+Student)](https://git.io/typing-svg)
 
-## About Me
+<h3 align="center">"Talk is cheap. Show me the code"</h3>
+<h4 align="center">- Linus Torvalds -</h4>
 
-Hello there! I'm Luis Guilherme, a passionate data enthusiast and a versatile developer keen on exploring the realms of AI, front-end, and back-end development. My journey often revolves around delving into data analysis and its correlated sciences. With a toolbox comprising Python, HTML, CSS, JavaScript, Node.js, and more, I embark on various projects, aiming to make an impact through code and data.
+<br>
 
-## Projects
+<div align="center" style="margin-bottom:200px">
+ <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=jacquelineatae&theme=radical&show_icons=true" />
+ <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacquelineatae&layout=compact&theme=radical" />
+</div>
 
-Here's a glimpse into some of the projects I've been working on:
 
-- **Data Analysis and Visualization**: Dive deep into datasets, extract insights, and craft compelling visualizations.
-- **Machine Learning Applications**: Implementing AI algorithms for various applications, from predictive analytics to natural language processing.
-- **Web Development**: Crafting seamless web experiences, from designing interfaces to implementing robust back-end systems.
+<br>
 
-Feel free to explore my repositories for more!
+## Linguagens e Ferramentas
 
-## Find Me
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-Connect with me across the web:
+#### Principais Ferramentas Utilizadas:
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
 
-- [LinkedIn](https://www.linkedin.com/in/luis-ggf/) ![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)
-- [Instagram](https://www.instagram.com/luis_ggfs/) ![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)
 
-## Stats
 
-Here's a snapshot of my GitHub profile:
 
-- **Total Repositories**: 16
-- **Contributions in Last Year**: 101
+#### Estudando atualmente:
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://react.dev/)
+
+
+#### Tools:
+
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
+  
+
+<br>
+
+## Histórico Acadêmico:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/C4E0BAQG5HFi6nWrpQg/company-logo_200_200/0/1655119369480/grupo_uninter_logo?e=1709164800&v=beta&t=A_gJyj3OZmT1JZNQcxaIJY67jzxMEJMvcpxyq1CwmS0"/>](https://www.uninter.com/)
+**Bacharelado em Sistemas de Informação** \
+[**EMCBate Ponto**]• Em progresso\
+Skills: `Agile Methodologies` `Requirements Engineering` `Software Architecture` `Professional Ethics`
+`Project Management` `Software Development` `Software Security` `Software Quality`
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s900-c-k-c0x00ffffff-no-rj"/>](https://www.onebitcode.com/)
+**Full Stack Developer** \
+Skills: `HTML5` `CSS3` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `NodeJs`
+
+<br>
+
+## Contact me:
+<div>
+<a href="https://www.instagram.com/luis_ggfs/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto: luis.guigfonseca@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/luis-ggf/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 
