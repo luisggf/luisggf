@@ -43,9 +43,9 @@
 
 ## Histórico Acadêmico:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://play-lh.googleusercontent.com/b6yvHa5JzmUnqhViudJmV2-cS2P0O6O08-pSjC2XJxC9C53rRxn7zhoFNJLvrBeNM7M=w240-h480-rw]"/>]
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://play-lh.googleusercontent.com/b6yvHa5JzmUnqhViudJmV2-cS2P0O6O08-pSjC2XJxC9C53rRxn7zhoFNJLvrBeNM7M=w240-h480-rw"/>]
 **Bacharelado em Sistemas de Informação** \
-[**EMCBate Ponto**]• Em progresso\
+**EMCBate Ponto** • Em progresso\
 Skills: `NodeJs` `React Native` `Android Studio`
 `Git` `Software Development` 
 
