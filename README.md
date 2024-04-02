@@ -14,12 +14,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Principais Ferramentas Utilizadas:
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
 
 
 
@@ -43,7 +43,7 @@
 
 ## Histórico Acadêmico:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://play-lh.googleusercontent.com/b6yvHa5JzmUnqhViudJmV2-cS2P0O6O08-pSjC2XJxC9C53rRxn7zhoFNJLvrBeNM7M=w240-h480-rw"/>]
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://play-lh.googleusercontent.com/b6yvHa5JzmUnqhViudJmV2-cS2P0O6O08-pSjC2XJxC9C53rRxn7zhoFNJLvrBeNM7M=w240-h480-rw"/>]()
 **Bacharelado em Sistemas de Informação** \
 **EMCBate Ponto** • Em progresso\
 Skills: `NodeJs` `React Native` `Android Studio`
