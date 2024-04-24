@@ -48,11 +48,11 @@
 Skills: `NodeJs` `React Native` `Android Studio`
 `Git` `Software Development` 
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s900-c-k-c0x00ffffff-no-rj](https://cdn.feather.blog/?src=https%3A%2F%2Fwww.notion.so%2Fimage%2Fhttps%3A%252F%252Fprod-files-secure.s3.us-west-2.amazonaws.com%252F9ab4fbc8-43fe-432c-89fc-7773079e99ad%252Ff586b0fa-45c0-44f5-92ea-8091e4b3e6ea%252F1_y1GymljfXsJqjdv73YPbCg.webp%3Ftable%3Dblock%26id%3D457faea0-2111-43ac-982f-a489e26d0dba%26cache%3Dv2&optimizer=image)"/>]()
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://cdn-icons-png.flaticon.com/512/2228/2228441.png"/>]()
 **Poker ML Bot** \
 Skills: `Python` `Machine Learning` `Typescript`  `GitHub`  `NodeJs`
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="[[https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s900-c-k-c0x00ffffff-no-rj](https://cdn.feather.blog/?src=https%3A%2F%2Fwww.notion.so%2Fimage%2Fhttps%3A%252F%252Fprod-files-secure.s3.us-west-2.amazonaws.com%252F9ab4fbc8-43fe-432c-89fc-7773079e99ad%252Ff586b0fa-45c0-44f5-92ea-8091e4b3e6ea%252F1_y1GymljfXsJqjdv73YPbCg.webp%3Ftable%3Dblock%26id%3D457faea0-2111-43ac-982f-a489e26d0dba%26cache%3Dv2&optimizer=image)](https://as2.ftcdn.net/v2/jpg/02/50/14/19/1000_F_250141913_PD7zuu8j9S5MPEdsVptFS020WgULn6c2.jpg)"/>]()
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://cdn-icons-png.flaticon.com/512/3408/3408506.png"/>]()
 **React Games** \
 Skills: `React` `Typescript`  `GitHub`  `NodeJS` 
 
