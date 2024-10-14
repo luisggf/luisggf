@@ -56,10 +56,9 @@ Skills: `Python` `Machine Learning` `Typescript`  `GitHub`  `NodeJs`
 **React Games** \
 Skills: `React` `Typescript`  `GitHub`  `NodeJS` 
 
-
 <br>
 
-## Contribuições
+## Contribuições recentes
 
 ![Snake animation](https://raw.githubusercontent.com/luisggf/luisggf/output/github-contribution-grid-snake-dark.svg)
 
