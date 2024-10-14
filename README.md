@@ -61,7 +61,7 @@ Skills: `React` `Typescript`  `GitHub`  `NodeJS`
 
 ## Contribuições
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/luisggf/luisggf/blob/output/github-contribution-grid-snake.gif)
 
 
 <br>
