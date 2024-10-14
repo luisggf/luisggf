@@ -57,6 +57,8 @@ Skills: `Python` `Machine Learning` `Typescript`  `GitHub`  `NodeJs`
 Skills: `React` `Typescript`  `GitHub`  `NodeJS` 
 
 
+<br>
+
 ## Contribuições
 
 ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
