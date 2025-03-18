@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Bem+Vindo+ao+meu+perfil+do+GitHub!;Meu+nome+é+Luis+Guilherme;Sou+Estudante+de+Sistemas+de+Informação)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Bem+Vindo+ao+meu+perfil+do+GitHub!;Meu+nome+é+Luis+Guilherme;Sou+Engenheiro+de+Software)](https://git.io/typing-svg)
 
 <br>
 
